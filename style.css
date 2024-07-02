@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins' sans-serif;
+}
+.container{
+    width: 100%;
+    min-height:  100vh;
+    background-image:  url(clg.jpg);
+    background-position: cover;
+    background-size:100% 100%;
+    padding: 10px 8%;
+    
+}
+nav{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding:  0px 100px;
+    height: 75px;
+    line-height: 100px;
+    background-color: skyblue;
+    
+}
+.logo{
+    width: 180px;
+    background-size: cover;
+    cursor: pointer;
+}
+nav ul li{
+    display: inline-block;
+    margin: 10px 20px;
+}
+   nav ul li a{
+    color:  black;
+    text-decoration: none;
+ } 
+ .container{
+width: 100%;
+ min-height:  100vh;
+ background-image:  url(techhpic.jpg);
+ background-position: cover;
+ background-size:100% 100%;
+ padding: 10px 8%;
+}
+ 
+ 
